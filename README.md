@@ -1,8 +1,3 @@
-# project-portfolio
-## My Projects (Private Access on Request)
-
-
-
 # 💼 Kalaiyarasan Perumal – Software Test Engineer
 
 Welcome to my project portfolio!
@@ -43,7 +38,7 @@ I'm a Software Test Engineer with strong experience in building test automation 
 
 To request access to any of my private repositories:
 
-- 📧 Email me: **your.email@example.com** *(replace this with your real email address)*  
+- 📧 Email me: **kalaiyarasan61097@gmail.com**
 - Or open an [issue here](https://github.com/kalaiyarasanperumal/project-portfolio/issues)
 
 ---
@@ -53,6 +48,13 @@ To request access to any of my private repositories:
 - **Languages**: Java, JavaScript, HTML, Scala  
 - **Automation Tools**: Selenium, Playwright, Cypress, JMeter, Karate, Cucumber, TestNG  
 - **Other Tools**: Docker, WireMock, RestAssured, GitHub Actions
+
+---
+
+## 🌍 Let's Connect
+
+- [LinkedIn – Kalaiyarasan Perumal](https://www.linkedin.com/in/kalaiyarasanperumal/)
+- [Medium – @kalaiyarasan61097](https://medium.com/@kalaiyarasan61097)
 
 ---
 

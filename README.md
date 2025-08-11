@@ -33,7 +33,9 @@ I'm a Software Test Engineer with strong experience in building test automation 
 
 ## 🌐 Live / Public Projects
 
-- 🔗 [`JmeterPOC_ZT`](https://github.com/kalaiyarasanperumal/JmeterPOC_ZT) – JMeter testing sample
+- 🔗 [`JmeterPOC_ZT`](https://github.com/kalaiyarasanperumal/JmeterPOC_ZT) – ✅ JMeter performance testing sample
+
+> _Note: Other web projects like `organic-store` and `kalaiyarasanperumal.github.io` are currently private. Please request access if interested._
 
 ---
 
@@ -41,8 +43,8 @@ I'm a Software Test Engineer with strong experience in building test automation 
 
 To request access to any of my private repositories:
 
-- 📧 Email me: **[kalaiyarasan61097@gmail.com]**  
-- Or open an [issue here](https://github.com/kalaiyarasanperumal/project-portfolio/issues) with the project name you're interested in
+- 📧 Email me: **your.email@example.com** *(replace this with your real email address)*  
+- Or open an [issue here](https://github.com/kalaiyarasanperumal/project-portfolio/issues)
 
 ---
 
@@ -56,5 +58,4 @@ To request access to any of my private repositories:
 
 ## 🙌 Thank You
 
-Thank you for visiting my portfolio. If you're interested in collaboration or hiring, feel free to reach out!
-
+Thank you for visiting my portfolio. I'm open to opportunities, collaborations, or freelancing. Feel free to connect!

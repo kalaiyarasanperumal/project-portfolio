@@ -139,7 +139,7 @@ Responsibilities:
 ---
 
 ## Software Development Engineer in Test
-### Annlar Technologies  
+### Annular Technologies  
 **Jan 2022 – May 2023**
 
 Projects:

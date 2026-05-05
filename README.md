@@ -15,7 +15,7 @@ Software Development Engineer in Test (SDET) with **5+ years of experience** in:
 
 Experienced in building enterprise automation frameworks using Playwright, Selenium, Appium, WebDriverIO (Roxas Framework), Karate, WireMock, JMeter, Docker, Jenkins, GitLab CI/CD, and cloud testing platforms.
 
-Currently working with :contentReference[oaicite:0]{index=0} on large-scale mobile and backend applications.
+Currently working with **The Walt Disney Company** on large-scale mobile and backend applications.
 
 ---
 
@@ -42,7 +42,7 @@ Currently working with :contentReference[oaicite:0]{index=0} on large-scale mobi
 
 ### JMeter Performance Testing
 
-🔗 :contentReference[oaicite:1]{index=1} Repository:  
+🔗 GitHub Repository:  
 https://github.com/kalaiyarasanperumal/JmeterPOC_ZT
 
 ---
@@ -58,30 +58,30 @@ https://github.com/kalaiyarasanperumal/JmeterPOC_ZT
 - Scala
 
 ## Automation Tools
-- :contentReference[oaicite:2]{index=2}
-- :contentReference[oaicite:3]{index=3}
-- :contentReference[oaicite:4]{index=4}
-- :contentReference[oaicite:5]{index=5}
-- :contentReference[oaicite:6]{index=6}
-- :contentReference[oaicite:7]{index=7}
-- :contentReference[oaicite:8]{index=8}
+- Selenium
+- Playwright
+- WebDriverIO
+- Appium
+- Cypress
+- Karate
+- WireMock
 - TestNG
 - Cucumber
 - TestProject
 
 ## Performance Testing
-- :contentReference[oaicite:9]{index=9}
+- JMeter
 
 ## CI/CD
-- :contentReference[oaicite:10]{index=10} CI/CD
-- :contentReference[oaicite:11]{index=11}
-- :contentReference[oaicite:12]{index=12}
-- :contentReference[oaicite:13]{index=13} Actions
+- GitLab CI/CD
+- Jenkins
+- TeamCity
+- GitHub Actions
 - Docker
 
 ## Cloud Testing
-- :contentReference[oaicite:15]{index=15}
-- :contentReference[oaicite:16]{index=16}
+- Sauce Labs
+- BrowserStack
 
 ## Collaboration
 - Jira
@@ -95,7 +95,7 @@ https://github.com/kalaiyarasanperumal/JmeterPOC_ZT
 # 💼 Professional Experience
 
 ## Software Development Engineer in Test – I
-### :contentReference[oaicite:17]{index=17}  
+### The Walt Disney Company  
 **June 2023 – Present**
 
 ### ESPN Mobile Application
@@ -139,7 +139,7 @@ Responsibilities:
 ---
 
 ## Software Development Engineer in Test
-### :contentReference[oaicite:18]{index=18}  
+### Annlar Technologies  
 **Jan 2022 – May 2023**
 
 Projects:
@@ -167,7 +167,7 @@ Anand Institute of Higher Technology, Chennai
 # 📜 Certification
 
 Software Testing Course  
-Spiders, Velachery, Chennai
+Spiders, Velachery, Chennai  
 
 Manual Testing • Automation Testing • Selenium • Java • SQL
 
@@ -177,14 +177,14 @@ Manual Testing • Automation Testing • Selenium • Java • SQL
 
 📧 Email: kalaiyarasan61097@gmail.com  
 📱 Phone: +91 9042650727  
-📍 :contentReference[oaicite:19]{index=19}  
+📍 Bengaluru, Karnataka, India  
 
 ### Connect
 
-:contentReference[oaicite:20]{index=20}  
+LinkedIn:  
 https://www.linkedin.com/in/kalaiyarasanperumal
 
-:contentReference[oaicite:21]{index=21}  
+GitHub:  
 https://github.com/kalaiyarasanperumal
 
 ---

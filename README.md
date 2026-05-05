@@ -1,63 +1,126 @@
-# 💼 Kalaiyarasan Perumal – Software Test Engineer
+# 💼 Kalaiyarasan Perumal | Software Test Engineer
 
-Welcome to my project portfolio!
+## 👋 About Me
 
-I'm a Software Test Engineer with strong experience in building test automation frameworks for Web, API, Mobile, and Performance testing. I've worked with tools such as **Playwright**, **Selenium**, **Cypress**, **JMeter**, **Karate**, **RestAssured**, **WireMock**, and more. Below is a curated list of my projects – some are public, and others are private (available on request).
+Software Development Engineer in Test (SDET) with 5+ years of experience in:
 
----
+✅ Web Automation  
+✅ Mobile Automation  
+✅ API Testing  
+✅ Performance Testing  
+✅ CI/CD Automation  
+✅ Release Validation  
 
-## 📁 Project Portfolio
-
-> 🔒 _Private repositories can be shared on request. Please contact me via email or raise a GitHub issue in this repository._
-
-| Project Name | Tech Stack | Description | Access |
-|--------------|------------|-------------|--------|
-| `JavaAssesement` | Java | Coding test automation samples | 🔒 Private |
-| `TestPlaywright` | JavaScript, Playwright | Web automation using Playwright | 🔒 Private |
-| `JmeterPOC_ZT` | JMeter | Performance testing POC | ✅ Public |
-| `MobileDev` | JavaScript | Mobile automation setup | 🔒 Private |
-| `TestKarate` | Gherkin, Karate | API testing using Karate DSL | 🔒 Private |
-| `Wiremock_RestAssured` | Java, RestAssured, WireMock | API mocking and test automation | 🔒 Private |
-| `Docker` | Docker, Gherkin | Dockerized test environments | 🔒 Private |
-| `CypressPOC` | JavaScript, Cypress | Frontend automation with Cypress | 🔒 Private |
-| `Playwright_Savvas` | JavaScript, Playwright | Live project automation work | 🔒 Private |
-| `UI-and-API-Framework` | HTML, API, Selenium | Combined test framework | 🔒 Private |
-| `Selenium-Java-Cucumber-TestNg` | Java | Web automation using Selenium & Cucumber | 🔒 Private |
+Experienced with enterprise automation frameworks using Playwright, Selenium, Appium, WebDriverIO, Karate, WireMock, JMeter, Docker, Jenkins, GitLab CI/CD, and cloud testing platforms.
 
 ---
 
-## 🌐 Live / Public Projects
+# 🚀 Project Portfolio
 
-- 🔗 [`JmeterPOC_ZT`](https://github.com/kalaiyarasanperumal/JmeterPOC_ZT) – ✅ JMeter performance testing sample
-
-> _Note: Other web projects like `organic-store` and `kalaiyarasanperumal.github.io` are currently private. Please request access if interested._
+> Some repositories are private due to client confidentiality. Access available upon request.
 
 ---
 
-## 📫 Request Access to Private Repos
+# 🌐 Public Repository
 
-To request access to any of my private repositories:
+### JMeter Performance Testing
 
-- 📧 Email me: **kalaiyarasan61097@gmail.com**
-- Or open an [issue here](https://github.com/kalaiyarasanperumal/project-portfolio/issues)
-
----
-
-## 🔧 Tools & Technologies
-
-- **Languages**: Java, JavaScript, HTML, Scala  
-- **Automation Tools**: Selenium, Playwright, Cypress, JMeter, Karate, Cucumber, TestNG  
-- **Other Tools**: Docker, WireMock, RestAssured, GitHub Actions
+🔗 GitHub Repository:  
+https://github.com/kalaiyarasanperumal/JmeterPOC_ZT
 
 ---
 
-## 🌍 Let's Connect
+# 🛠 Technical Skills
 
-- [LinkedIn – Kalaiyarasan Perumal](https://www.linkedin.com/in/kalaiyarasanperumal/)
-- [Medium – @kalaiyarasan_sdet_automation](https://medium.com/@kalaiyarasan_sdet_automation)
+## Programming Languages
+- Java
+- JavaScript
+- TypeScript
+- SQL
+- Scala
+
+## Automation Tools
+- Selenium
+- Playwright
+- WebDriverIO
+- Appium
+- Cypress
+- Karate
+- WireMock
+
+## Performance Testing
+- JMeter
+
+## CI/CD
+- GitLab CI/CD
+- Jenkins
+- TeamCity
+- GitHub Actions
+
+## Cloud Testing
+- Sauce Labs
+- BrowserStack
+
+## Collaboration
+- Jira
+- qTest
+- Confluence
+- Slack
+- Microsoft Teams
 
 ---
 
-## 🙌 Thank You
+# 💼 Professional Experience
 
-Thank you for visiting my portfolio. I'm open to opportunities, collaborations, or freelancing. Feel free to connect!
+## Software Development Engineer in Test – I
+### The Walt Disney Company  
+June 2023 – Present
+
+### ESPN App
+Tech Stack:
+TypeScript, Appium, WebDriverIO, Roxas Framework, Sauce Labs, BrowserStack
+
+Responsibilities:
+
+- Developed mobile automation frameworks
+- Maintained GitLab CI/CD pipelines
+- Performed cross-device testing
+- Supported production releases
+- Debugged flaky automation scripts
+- Improved regression coverage
+
+---
+
+# 🎓 Education
+
+Bachelor of Engineering (B.E.)  
+Electrical & Electronics Engineering  
+Anand Institute of Higher Technology, Chennai
+
+---
+
+# 📜 Certification
+
+Software Testing Course  
+Spiders, Velachery, Chennai
+
+Manual Testing • Automation Testing • Selenium • Java • SQL
+
+---
+
+# 📫 Contact
+
+📧 Email: kalaiyarasan61097@gmail.com  
+📱 Phone: +91 9042650727  
+
+### Connect
+
+LinkedIn:  
+https://www.linkedin.com/in/kalaiyarasanperumal
+
+GitHub:  
+https://github.com/kalaiyarasanperumal
+
+---
+
+⭐ Open to SDET, QA Automation, Freelancing, and Collaboration opportunities.

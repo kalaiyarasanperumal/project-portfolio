@@ -54,7 +54,7 @@ To request access to any of my private repositories:
 ## 🌍 Let's Connect
 
 - [LinkedIn – Kalaiyarasan Perumal](https://www.linkedin.com/in/kalaiyarasanperumal/)
-- [Medium – @kalaiyarasan61097](https://medium.com/@kalaiyarasan_sdet_automation)
+- [Medium – @kalaiyarasan_sdet_automation](https://medium.com/@kalaiyarasan_sdet_automation)
 
 ---
 
